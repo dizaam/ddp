@@ -55,7 +55,7 @@ int main(){
         printf("%d, ", num[addr2[i]]);
     }
     
-    printf("\n");
+    printf("\ncount1: %d count2: %d", count1, count2);
 
     return 0;
 }
